@@ -1,0 +1,26 @@
+_repo: The-Annals-of-Willenhall_31675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hackwood, Frederick William
+    alias: Hackwood, Frederick W. (Fredrick William)
+    birthdate: 1851
+    gutenberg_agent_id: '35415'
+    url: http://www.gutenberg.org/2009/agents/35415
+description: ''
+gutenberg_issued: '2010-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Willenhall (Walsall, England)'
+title: The Annals of Willenhall
+url: http://www.gutenberg.org/ebooks/31675
